@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development!
 - 🌱 I’m currently learning about interacting with Stripe via a Next app.
 - 📫 How to reach me 
-  - (Facebook)[https://facebook.com/nick.lambourne5/]
-  - (Instagram)[https://instagram.com/nick_lambourne/]
-  - (LinkedIn)[https://www.linkedin.com/in/nick-lambourne-628727218/]
+  - [Facebook](https://facebook.com/nick.lambourne5/)
+  - [Instagram](https://instagram.com/nick_lambourne/)
+  - [LinkedIn](https://www.linkedin.com/in/nick-lambourne-628727218/)
